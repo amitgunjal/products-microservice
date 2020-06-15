@@ -30,7 +30,6 @@ func CreateDBConnection() (*gorm.DB, error) {
 	} else {
 		log.Println("Connected to MySQL at ", dbConnectionURI)
 	}
-	log.Printf("Connected to database at- {%s} ", dbConnectionURI)
 	return db, nil
 }
 
