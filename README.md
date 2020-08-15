@@ -1,6 +1,8 @@
 # Project Title
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e7560ba3ea94fb7bfceea13f0a1b9ad)](https://app.codacy.com/manual/amittgunjal/products-microservice?utm_source=github.com&utm_medium=referral&utm_content=amitgunjal/products-microservice&utm_campaign=Badge_Grade_Dashboard)
+[![HitCount](http://hits.dwyl.com/amitgunjal/products-microservice.svg)](http://hits.dwyl.com/amitgunjal/products-microservice)
+
 
 One Paragraph of project description goes here
 
